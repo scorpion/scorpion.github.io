@@ -6,7 +6,9 @@
 
 ## Overview
 
-The goal of the scorpion project is to allow complete automation and control of your data. Our core foundations are built on an API first approach and breaking data out of proprietary systems, We can help provision frameworks properly that allow long term success any project.
+[GitHub Project Page](https://github.com/scorpion)
+
+The goal of the scorpion project is to allow complete automation and control of your data. Our core foundations are built on an API first approach and helping break data out of proprietary systems in thoughtful ways. We help provision frameworks and integrations that allow long term success any project.
 
 By using the latest tools, techniques, and technologies, we can help bring best practices to developers that just want to make code. Build your next dream on solid open source foundations and let us help make it an easier transition. Transparency, documentation, traning, and supporting the community is why this project exists.
 
@@ -23,3 +25,19 @@ Once installed, please run `scorpion -h` or `scorpion --help` for information on
 ## Constellations
 
 Coming soon. [Constellations.sh](https://constellations.sh) by scorpion will allow orchestration of open source projects.
+
+### Asterism
+
+An asterism is a suggestion on how to run your constellation and gives a starting point on builing your infrastructure and framework. You would run the following at the command line.
+
+```bash
+scorpion co cmf
+```
+
+> `co` = constellation
+
+That would provision the core _CMF_ foundation and creates a `constellation.toml` file.
+
+### Images
+
+These are the currently supported images that serve as the foundations and building blocks for an asterism.
