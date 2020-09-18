@@ -8,7 +8,7 @@
 
 [GitHub Project Page](https://github.com/scorpion)
 
-The goal of the scorpion project is to allow complete automation and control of your data. Our core foundations are built on an API first approach and helping break data out of proprietary systems in thoughtful ways. We help provision frameworks and integrations that allow long term success any project.
+The goal of the scorpion project is to allow complete automation and control of your data. Our core foundations are built on an API first approach and helping break data out of proprietary systems in thoughtful ways. We help provision frameworks and integrations that allow long term success of any project.
 
 By using the latest tools, techniques, and technologies, we can help bring best practices to developers that just want to make code. Build your next dream on solid open source foundations and let us help make it an easier transition. Transparency, documentation, traning, and supporting the community is why this project exists.
 
@@ -24,7 +24,7 @@ Once installed, please run `scorpion -h` or `scorpion --help` for information on
 
 ## Constellations
 
-Coming soon. [Constellations.sh](https://constellations.sh) by scorpion will allow orchestration of open source projects.
+[constellations.sh](https://constellations.sh) by scorpion will allow orchestration of open source projects.
 
 ### Asterism
 
@@ -34,10 +34,22 @@ An asterism is a suggestion on how to run your constellation and gives a startin
 scorpion co cmf
 ```
 
-> `co` = constellation
+> `co` = short for constellation
 
 That would provision the core _CMF_ foundation and creates a `constellation.toml` file.
+
+Please see [constellations.sh](https://constellations.sh) for more information on the CMF and future constellations.
 
 ### Images
 
 These are the currently supported images that serve as the foundations and building blocks for an asterism.
+
+[PHP](https://github.com/scorpion/php)
+
+### constellation.toml
+
+`scorpion co` will either provision a constellation based on the `constellation.toml` file, or it will generate a pre-defined constellation called an asterism.
+
+Standard will be based on [TOML](https://toml.io/en/) formatting.
+
+Standards proposal for `asterism format v0.1.0` will appear here when the issue is opened.
