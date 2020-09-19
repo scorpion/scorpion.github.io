@@ -62,4 +62,4 @@ Standards proposal for `asterism format v0.1.0` will appear here when the issue 
 
 If you build something really cool, we want to include you in our community! We will be working with and accepting pull requests from the community on various projects.
 
-Get in touch: brett@scorpion.io
+Get in touch: <brett@scorpion.io>
