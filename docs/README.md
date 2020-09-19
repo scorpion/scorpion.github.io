@@ -14,7 +14,9 @@ By using the latest tools, techniques, and technologies, we can help bring best 
 
 ## CLI
 
-Command line interface for the [scorpion project](https://scorpion.io) written in [Rust](https://www.rust-lang.org).
+[CLI docs page](https://scorpion.io/cli/)
+
+Command line interface for the [scorpion project](https://scorpion.io) written in [Rust](https://www.rust-lang.org) and published on [crates.io](https://crates.io/crates/scorpion).
 
 ```bash
 cargo install scorpion
@@ -42,9 +44,9 @@ Please see [constellations.sh](https://constellations.sh) for more information o
 
 ### Images
 
-These are the currently supported images that serve as the foundations and building blocks for an asterism.
+These are the currently supported docker images that serve as the foundations and building blocks for an asterism.
 
-[PHP](https://github.com/scorpion/php)
+- [PHP](https://github.com/scorpion/php)
 
 ### constellation.toml
 
@@ -53,3 +55,9 @@ These are the currently supported images that serve as the foundations and build
 Standard will be based on [TOML](https://toml.io/en/) formatting.
 
 Standards proposal for `asterism format v0.1.0` will appear here when the issue is opened.
+
+### Future Plans
+
+If you build something really cool, we want to include you in our community! We will be working with and accepting pull requests from the community on various projects.
+
+Get in touch: brett@scorpion.io
