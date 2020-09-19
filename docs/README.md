@@ -26,7 +26,9 @@ Once installed, please run `scorpion -h` or `scorpion --help` for information on
 
 ## Constellations
 
-[constellations.sh](https://constellations.sh) by scorpion will allow orchestration of open source projects.
+[constellations.sh](https://constellations.sh) by [scorpion.io](https://scorpion.io) will allow orchestration of open source projects.
+
+Please see the [Constellations GitHub](https://github.com/scorpion/constellations) repository for more information.
 
 ### Asterism
 
