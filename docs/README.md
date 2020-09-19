@@ -14,7 +14,7 @@ By using the latest tools, techniques, and technologies, we can help bring best 
 
 ## CLI
 
-[CLI docs page](https://scorpion.io/cli/)
+[CLI project page](https://github.com/scorpion/cli)
 
 Command line interface for the [scorpion project](https://scorpion.io) written in [Rust](https://www.rust-lang.org) and published on [crates.io](https://crates.io/crates/scorpion).
 
