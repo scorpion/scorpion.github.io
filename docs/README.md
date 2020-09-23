@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/brettwilcox/brettwilcox/master/docs/images/scorpion.svg" alt="Scorpion Logo" height="75px"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/brettwilcox/brettwilcox/main/docs/images/scorpion.svg" alt="Scorpion Logo" height="75px"/></p>
 
 ![Rust](https://github.com/scorpion/cli/workflows/Rust/badge.svg)
 ![Crates.io](https://img.shields.io/crates/v/scorpion?logo=rust)
@@ -60,6 +60,6 @@ Standards proposal for `asterism format v0.1.0` will appear here when the issue 
 
 ### Future Plans
 
-If you build something really cool, we want to include you in our community! We will be working with and accepting pull requests from the community on various projects.
+If you want to build something really cool with us, we want to include you in our community! We will be working with and accepting pull requests for various projects.
 
 Get in touch: <brett@scorpion.io>
