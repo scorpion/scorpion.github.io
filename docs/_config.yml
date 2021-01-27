@@ -1,0 +1,4 @@
+# .well-known needs to be manually included, due to Jekyll
+# https://jekyllrb.com/docs/structure/
+include:
+ - .well-known
